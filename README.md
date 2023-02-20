@@ -1,16 +1,27 @@
-### Hi there 👋
+## Welcome!,
+```
+I am pigerstreet, a self-taught programmer and a student.
 
-<!--
-**pigerstreet/pigerstreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%;">
 
-Here are some ideas to get you started:
+##  Languages:
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=git,java,kotlin,nextjs,react,redis,tailwind,py,pug,raspberrypi,swift,vercel,tensorflow,ts,workers,vue,prisma,postgres,ps,mysql,html,css,grafana,express,dotnet,docker,discord,deno,cloudflare,bash,arduino,mongodb,nginx,nodejs,js&perline=6" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔭 I’m currently working on:
+```js
+https://frostproxy.com
+```
+## 🌱 I’m currently learning:
+```js
+Swift, Rust
+```
+
+
+💬 Ask me about anything, i am happy to help (:
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pigerstreet)](https://git.io/streak-stats)
