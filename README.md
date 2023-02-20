@@ -11,9 +11,9 @@ I am pigerstreet, a self-taught programmer and a student.
 </p>
 
 
+<br>
 
-
-💬 Ask me about anything, i am happy to help (:
+You can ask me any questions.
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pigerstreet)](https://git.io/streak-stats)
